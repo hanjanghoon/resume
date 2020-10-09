@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Janghoon Han resume"
+description: "A resume template for Janghoon and GitHub Pages sites."
 
 # Build settings
 markdown: kramdown
@@ -33,13 +33,13 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
+resume_section_experience:      false
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
-resume_section_recognition:     true
-resume_section_links:           true
-resume_section_associations:    true
+resume_section_recognition:     false
+resume_section_links:           false
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
@@ -58,6 +58,6 @@ resume_print_social_links:      true
 # Design settings
 resume_theme:                   default
 
-# Note: when editing locally, remember to restart
+  # Note: when editing locally, remember to restart
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
