@@ -1,10 +1,11 @@
 # Skills
 # Organizational leadership
 - skill: 'Korean Dependency Parsing Using Sequential Parsing Method Based on Pointer Network'
-  description: 'Janghoon Han, Yeongjoon Park, Younghoon Jeong, Inkwon Lee, Jungwook Han, Seojun Park, Juae Kim, and Jeongyeon Seo\nProceedings of the 31st Annual Conference on Human and Cognitive Language Technology, pp. 533-536,
+  description: 'Janghoon Han, Yeongjoon Park, Younghoon Jeong, Inkwon Lee, Jungwook Han, Seojun Park, Juae Kim, and Jeongyeon Seo
+    Proceedings of the 31st Annual Conference on Human and Cognitive Language Technology, pp. 533-536,
   2019.'
 
-# Communications strategy
+  # Communications strategy:
 - skill: 'Single-turn Post-training for Multi-turn Retrieval-based Dialogue Systems'
   description: 'Janghoon Han, Taesuk Hong, Byongjae Kim, Youngjoong Ko, Jungyun Seo'
 
