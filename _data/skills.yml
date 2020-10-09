@@ -1,12 +1,13 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: 'Korean Dependency Parsing Using Sequential Parsing Method Based on Pointer Network'
+  description: 'Janghoon Han, Yeongjoon Park, Younghoon Jeong, Inkwon Lee, Jungwook Han, Seojun Park, Juae Kim, and Jeongyeon Seo\nProceedings of the 31st Annual Conference on Human and Cognitive Language Technology, pp. 533-536,
+  2019.'
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: 'Single-turn Post-training for Multi-turn Retrieval-based Dialogue Systems'
+  description: 'Janghoon Han, Taesuk Hong, Byongjae Kim, Youngjoong Ko, Jungyun Seo'
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+#i- skill: Digital content development and creation
+# description: Copy writing, graphic design, web design, front-end web development, print design
